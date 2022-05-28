@@ -1,0 +1,8 @@
+venv
+text_files
+results
+dist
+build
+*.spec
+*.xlsx
+*.csv
